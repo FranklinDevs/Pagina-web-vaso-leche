@@ -16,6 +16,8 @@ antes se veia haci sin ningun contenido vaso de leche
 
 
 ahora se ve haci:
+<img width="1366" height="750" alt="image" src="https://github.com/user-attachments/assets/909d1b0b-f3f2-4b9f-81c5-e5c9296d8429" />
+
 
 
 
