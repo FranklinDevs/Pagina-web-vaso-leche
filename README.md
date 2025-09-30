@@ -14,7 +14,9 @@ en el siguiente enlace: Página web principal antigua de SIAMsoft: https://www.s
 
 
 antes se veia haci sin ningun contenido vaso de leche
-<img width="392" height="471" alt="image" src="https://github.com/user-attachments/assets/e4a6cfba-007c-48cc-a788-a29f78710a39" />
+<br>
+<img width="370" height="508" alt="image" src="https://github.com/user-attachments/assets/a2ebd6ea-9998-48e3-9e47-a2c40ef356bb" />
+
 
 
 ahora se ve haci:
