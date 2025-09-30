@@ -19,7 +19,7 @@ antes se veia haci sin ningun contenido vaso de leche
 
 
 
-ahora se ve haci:
+captura de la pagina web:
 <br>
 <img width="1352" height="764" alt="image" src="https://github.com/user-attachments/assets/da467178-1dad-4554-a840-27328bf8a228" />
 
